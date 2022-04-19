@@ -11,7 +11,7 @@ Hi! 👋 I'm Audrey.  I'm a self-taught, full stack developer from Southern Cali
 📫 How to reach me: 
 <br/>
 <div align='center'>
-<a href="https://audreydelgado.com/"><img src="https://postimg.cc/TLrGDTgd" title="portfolioIcon" alt="portfolio" width="40" height="40"></a>
+<a href="https://audreydelgado.com/"><img src="https://i.postimg.cc/G2fp62py/responsive.png" title="portfolioIcon" alt="portfolio" width="40" height="40"></a>
 <a href="https://www.linkedin.com/in/audrey-delgado-dev/"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"></a> 
 <a href="https://twitter.com/Audrey_Lin_D"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="twitter" alt="twitter" width="40" height="40"></a>
 </div>
