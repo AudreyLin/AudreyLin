@@ -32,8 +32,7 @@ Hi! 👋 I'm Audrey.  I'm a self-taught, full stack developer from Southern Cali
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mySQL" alt="mySQL" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="sequelize" alt="sequelize" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" alt="sqlite" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" 
-title="mongodb" alt="mongodb" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" alt="jest" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="ssh" alt="ssh" width="40" height="40">
