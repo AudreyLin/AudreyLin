@@ -7,16 +7,15 @@ Hi! 👋 I'm Audrey.  I'm a self-taught, full stack developer from Southern Cali
 
 🎓 I have an Associate's Degree in IT Networking & a Bachelor of Science in IT Network Security. (Everyone just thought it was web development, so that's what got me into development.)
 
-👩‍💻 I'm currently working on a CRM demo app for my github portfolio.  
-
-🧠 I'm currently learning how to make UML diagrams for my database, using MermaidJS.  Also learning data structures and algorithms.
+👩‍💻 I'm currently working on (DevfestAI)[https://devfest.ai/] & Hacktoberfest
+🧠 I'm currently learning Rust.
 
 📫 How to reach me: 
 <br/>
 <div align='center'>
-<a href="https://audreydelgado.com/"><img src="https://i.postimg.cc/G2fp62py/responsive.png" title="portfolioIcon" alt="portfolio" width="40" height="40"></a>
+<a href="https://audreyd.dev/"><img src="https://i.postimg.cc/G2fp62py/responsive.png" title="portfolioIcon" alt="portfolio" width="40" height="40"></a>
 <a href="https://www.linkedin.com/in/audrey-delgado-dev/"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"></a> 
-<a href="https://twitter.com/Audrey_Lin_D"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="twitter" alt="twitter" width="40" height="40"></a>
+<a href="https://x.com/Audrey_Lin_D"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="twitter" alt="twitter" width="40" height="40"></a>
 </div>
 
 ---
