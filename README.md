@@ -9,7 +9,7 @@ Hi! 👋 I'm Audrey.  I'm a self-taught, full stack developer from Southern Cali
 
 👩‍💻 I'm currently working on [DevfestAI](https://devfest.ai/) & [Hacktoberfest](hacktoberfest.com)
 
-🧠 I'm currently learning Rust.
+🧠 I'm currently learning the PERN stack and software architecture.
 
 📫 How to reach me: 
 <br/>
