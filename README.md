@@ -7,7 +7,7 @@ Hi! 👋 I'm Audrey.  I'm a self-taught, full stack developer from Southern Cali
 
 🎓 I have an Associate's Degree in IT Networking & a Bachelor of Science in IT Network Security. (Everyone just thought it was web development, so that's what got me into development.)
 
-👩‍💻 I'm currently working on [DevfestAI](https://devfest.ai/) & [Hacktoberfest](hacktoberfest.com)
+👩‍💻 I'm currently working on the PERN stack & AI.
 
 🧠 I'm currently learning the PERN stack and software architecture.
 
